@@ -1,7 +1,7 @@
 # DEEP LEARNING
 
 Questo piccolo repository ha lo scopo di contenere il codice di supporto al blog [Noruen] (http://noruen.com).
-
+MOD
 Lo scopo è quello di includere chi lo desidera nello **sviluppo di algoritmi di deep learning**.
 
 Molte risorse in tal senso partono dall'algebra lineare, dall'analisi matematica e così via. Ho sperimentato questo metodo sulla mia pelle (sia come discente che insegnante) per tantissimi anni della mia vita e di solito scoraggia molto e uccide l'entusiasmo.
