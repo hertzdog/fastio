@@ -1,4 +1,4 @@
-name: noruen
+name: corsoDLnoruen
 channels:
 - conda-forge
 - menpo
