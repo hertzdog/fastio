@@ -1,4 +1,4 @@
-name: corso-deep-learning-noruen
+name: corsoDLnoruen
 channels:
 - conda-forge
 - menpo
